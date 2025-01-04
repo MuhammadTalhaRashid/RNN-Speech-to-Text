@@ -32,19 +32,33 @@ NumPy
 
 # 📁 Project Structure
 RNN-Speech-to-Text/
+
 │
-├── data/  
+
+├── data/
+
 │   ├── sentences/                  
+
 │   ├── words/             
+
 │
+
 ├── models/
+
 │   ├── train_model.py          # RNN model implementation  
+
 │   ├── data_processing.py      # Processing data into spectrogram form
+
 │   ├── voice_input.py          # Use case and Testing of the model
+
 │
+
 ├── requirements.txt         # Required Python libraries  
+
 ├── README.md                # Project documentation  
+
 └── LICENSE                  # License for using this project  
+
 # 🔧 Setup Instructions
 Prerequisites
 
